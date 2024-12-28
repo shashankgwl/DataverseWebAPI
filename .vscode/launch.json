@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: WebApiTest",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\WebApiTest.csproj",
+            "launchConfigurationId": "TargetFramework=;WebApiTest"
+        }
+    ]
+}

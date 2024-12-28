@@ -1,0 +1,17 @@
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\WebApiTest.exe
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\WebApiTest.deps.json
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\WebApiTest.runtimeconfig.json
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\WebApiTest.dll
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\WebApiTest.pdb
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.AssemblyInfoInputs.cache
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.AssemblyInfo.cs
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.dll
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\refint\WebApiTest.dll
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.pdb
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.genruntimeconfig.cache
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\ref\WebApiTest.dll
+C:\Users\ShashankBhide\source\repos\WebApiTest\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.csproj.AssemblyReference.cache
+C:\Users\ShashankBhide\source\repos\WebApiTest\obj\Debug\net9.0\WebApiTest.csproj.Up2Date
