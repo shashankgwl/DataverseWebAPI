@@ -4,8 +4,6 @@ using System.Net.Http.Headers;
 using System.Runtime.InteropServices;
 using System.Text.Json;
 
-Console.WriteLine("Hello, World!");
-
 string token = "<bearer token>";
 string dataverseUrl = "https://org798d1247.crm.dynamics.com/api/data/v9.2/$batch";
 await ExecuteTransactionAsync();
